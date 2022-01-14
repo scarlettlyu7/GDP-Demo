@@ -1,5 +1,4 @@
 if __name__ == '__main__':
     print('hello scarlett!')
-
-iadfoijasodfaifj
+    print('Scarlett 天天快乐！！')
 
